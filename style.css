@@ -7,7 +7,23 @@
    font-size: 50px;
    color: azure;
    background-color: black;
-   
-   
+   font-family: monospace;
+}
+.titulo-principal{
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.taca{
+    text-align: center;
+}
 
+.principal{
+    text-align: center;
+    font-family: sans-serif
+    font-size: 15px;
+}
+.campo{
+    text-align: center;
 }
