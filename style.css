@@ -21,9 +21,12 @@
 
 .principal{
     text-align: center;
-    font-family: sans-serif
+    font-family: sans-serif;
     font-size: 15px;
 }
 .campo{
     text-align: center;
+}
+.keywords{
+    font-weight: bold;
 }
