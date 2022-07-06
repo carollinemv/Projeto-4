@@ -52,7 +52,7 @@
     font-weight: bold;
     
 }
-.container{ text-align: center;}
+.container{ text-align: justify;}
   
 .container{
     font-size: 15px;
@@ -64,8 +64,8 @@
     font-weight: 400;
     margin-bottom: 20px;
     margin-top: 0;
-    overflow-wrap: break-word;
-    display: block;
+    overflow-wrap: normal;
+    
     
    }
    .copyright{
@@ -74,3 +74,5 @@
     font-weight: bold;
     padding: 15px;
    }
+   
+  
