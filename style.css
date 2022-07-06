@@ -70,9 +70,12 @@
    }
    .copyright{
     height: 05vh;
-    background-color: #cccccc;
+    background-color: black;
     font-weight: bold;
     padding: 15px;
+    color: aliceblue;
+    
+
    }
    
   
